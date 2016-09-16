@@ -3,7 +3,7 @@
 This repository is about the source code of team **gStreamPKU**,
 which is one of five finalists of [SIGMOD Programming Contest 2016](http://dsg.uwaterloo.ca/sigmod16contest/).
 We present our solution on ACM SIGMOD/PODS conference on June 30th, 2016 in San Franciso, USA.
-You can get more details about our solution from [our poster](http://dsg.uwaterloo.ca/sigmod16contest/downloads/gStreamPKU_poster.pdf). 
+You can get more details about our solution from [our poster](https://github.com/Caesar11/SIGMOD-Programming-Contest-2016/blob/master/doc/gStreamPKU_poster.pdf). 
 
 ## Team Member:
 + Shuo Han
