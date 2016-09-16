@@ -1,4 +1,4 @@
-# SIGMOD-Programming-Contest-2016
+# SIGMOD Programming Contest 2016
 
 This repository is about the source code of team **gStreamPKU**,
 which is one of five finalists of [SIGMOD Programming Contest 2016](http://dsg.uwaterloo.ca/sigmod16contest/).
